@@ -18,3 +18,7 @@ Cargo.lock
 *.out
 
 .vscode/
+.exercism/
+exercism/**/GETTING_STARTED.md
+exercism/**/HELP.md
+exercism/**/HINTS.md
