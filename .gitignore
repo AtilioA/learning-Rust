@@ -23,3 +23,4 @@ exercism/**/GETTING_STARTED.md
 exercism/**/HELP.md
 exercism/**/HINTS.md
 exercism/**/.gitignore
+.ignore/
